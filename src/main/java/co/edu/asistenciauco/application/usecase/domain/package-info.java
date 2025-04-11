@@ -1,0 +1,1 @@
+package co.edu.asistenciauco.application.usecase.domain;
